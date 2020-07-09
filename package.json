@@ -1,12 +1,12 @@
 {
   "name": "npm-wuchao-test",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "a.js",
   "repository": "git@github.com:wuchao632/npm-wuchao-test.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "up": "node push.js"
+    "shell": "node push.js"
   },
   "author": "",
   "license": "ISC",
