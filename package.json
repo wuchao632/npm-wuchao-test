@@ -6,7 +6,7 @@
   "repository": "git@github.com:wuchao632/npm-wuchao-test.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "shell": "node push.js && npm publish"
+    "shell": "node push.js && npm publish --registry http://registry.npmjs.org"
   },
   "author": "",
   "license": "ISC",
