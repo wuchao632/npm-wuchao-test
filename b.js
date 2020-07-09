@@ -1,2 +1,2 @@
 var h = require('./a')
-console.log(h)
+new h()
